@@ -67,7 +67,7 @@ The [standard deviation][standard-deviation] for a [Gumbel][gumbel-distribution]
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-stdev@v0.1.1-esm/index.mjs';
 ```
 
 #### stdev( mu, beta )
@@ -132,7 +132,7 @@ y = stdev( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-stdev@v0.1.1-esm/index.mjs';
 
 var beta;
 var mu;
