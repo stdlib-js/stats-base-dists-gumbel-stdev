@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-19)
+## Unreleased (2025-01-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e7eae81`](https://github.com/stdlib-js/stdlib/commit/e7eae81492e2004895ec3f45fe76b7fda4fcd69d) - **refactor:** precompute constant and adjust tolerance _(by Philipp Burckhardt)_
 -   [`6bee26c`](https://github.com/stdlib-js/stdlib/commit/6bee26c8deff47aff0baaec81651ce6682716196) - **feat:** add C implementation for `stats/base/dists/gumbel/stdev` [(#4153)](https://github.com/stdlib-js/stdlib/pull/4153) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
