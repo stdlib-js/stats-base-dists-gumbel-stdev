@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`46aeb95`](https://github.com/stdlib-js/stdlib/commit/46aeb956e694d0e7fe1fd1a95a706d230c7bc4a9) - **bench:** update random value generation for `stats/base/dists/gumbel/stdev` [(#10241)](https://github.com/stdlib-js/stdlib/pull/10241) _(by Bhargav Dabhade, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Bhargav Dabhade
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
